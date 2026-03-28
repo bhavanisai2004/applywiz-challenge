@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+tailored_resumes/
+*.pdf
+resume/candidate_resume.docx
